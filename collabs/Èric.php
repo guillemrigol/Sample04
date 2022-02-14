@@ -1,1 +1,1 @@
-<li><b>Èric uwu</b></li>
+<li><b>Èric UwU</b></li>
