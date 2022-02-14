@@ -142,12 +142,14 @@
 @keyframes batec{
   0%{
     color: #FF0000
+    transform: rotate(0deg);
   }
   25%{
     color: #F4FF00
   }
   50%{
     color: #007EFF
+    transform: rotate(180deg);
   }
   75%{
   color: #FF0000
@@ -159,6 +161,7 @@
 
   li#gt button{
     border: none;
-    animation: batec 1s infinite;
+
+    animation: batec 10s infinite;
   }
 </style>
