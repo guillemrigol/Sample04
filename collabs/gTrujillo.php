@@ -1,4 +1,4 @@
-<p><b>Guillem Trujillo</b></p>
+<p>Guillem Trujillo</p>
 
 
 
@@ -157,7 +157,7 @@
   }
 }
 
-  p:hover{
+  p{
     transition: color ease 1s;
   }
 </style>
