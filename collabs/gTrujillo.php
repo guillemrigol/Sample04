@@ -1,4 +1,4 @@
-<li id="gt"><b>Guillem Trujillo</b></li>
+<li id="gt"><button>Guillem Trujillo</button></li>
 
 
 
@@ -142,12 +142,14 @@
 @keyframes batec{
   0%{
     color: #FF0000
+    transform: rotate(0deg);
   }
   25%{
     color: #F4FF00
   }
   50%{
     color: #007EFF
+    transform: rotate(180deg);
   }
   75%{
   color: #FF0000
@@ -157,7 +159,9 @@
   }
 }
 
-  li#gt{
-    animation: batec 1s infinite;
+  li#gt button{
+    border: none;
+
+    animation: batec 10s infinite;
   }
 </style>
