@@ -6,26 +6,23 @@
     <style>
 
     *{
-    margin:0;
-    padding:0;
+      margin:0;
+      padding:0;
     }
 
     body{
       background-color:#404040;
       width:100%;
-      min-height:100vh;
-      display:flex;
-      align-items: center;
-      justify-content: center;
     }
 
     ol{
       display:grid;
       position:relative;
       width:80%;
+      height:auto;
       margin:0 auto;
       grid-template-columns:repeat(3, 1fr);
-      grid-template-rows:repeat(5, 100px);
+      grid-template-rows:repeat(6, 100px);
       grid-column-gap:10px;
       grid-row-gap:10px;
     }
