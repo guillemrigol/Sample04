@@ -1,4 +1,4 @@
-<p><b>Guillem Trujillo</b></p>
+<p>Guillem Trujillo</p>
 
 
 
