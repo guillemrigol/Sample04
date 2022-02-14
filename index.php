@@ -10,5 +10,11 @@
     <?php include('collabs/Oussama.php') ?>
     <?php include('collabs/Marc.php') ?>
     <?php include('collabs/gelchhen.php') ?>
+    <?php include('collabs/barbare.php') ?>
+    <?php include('collabs/pol.php') ?>
+    <?php include('collabs/pau.php') ?>
+    <?php include('collabs/jonatan.php') ?>
+    <?php include('collabs/Èric.php') ?>
+    <?php include('collabs/cristian.php') ?>
   </body>
 </html>
