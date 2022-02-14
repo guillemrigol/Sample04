@@ -54,6 +54,6 @@
     <?php include('collabs/robert.php') ?>
     <?php include('collabs/isaias.php') ?>
     <?php include('collabs/david.php') ?>
-    <ol>
+    <?php include('collabs/sergi.php') ?>
   </body>
 </html>
