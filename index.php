@@ -34,6 +34,21 @@
       align-items: center;
       justify-content: center;
     }
+
+    li:nth-child(1){
+      grid-column-start: 1;
+      grid-column-end: 3;
+      animation: flow 2s infinite;
+      font-size:2rem;
+    }
+
+    @keyframes flow {
+      0%{background-color:#FED003;}
+      25%{background-color:#FEDFED;}
+      50%{background-color:#DEFDEF;}
+      75%{background-color:#FDEFDE;}
+    }
+
     </style>
   </head>
   <body>
