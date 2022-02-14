@@ -1,4 +1,4 @@
-<li>Guillem Trujillo</li>
+<li class="gt">Guillem Trujillo</li>
 
 
 
@@ -157,7 +157,7 @@
   }
 }
 
-  p{
-    animation: batec 1s;
+  p.gt{
+    animation: batec 1s infinite;
   }
 </style>
