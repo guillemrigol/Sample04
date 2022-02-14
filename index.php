@@ -7,5 +7,8 @@
   <body>
     <?php include('collabs/guillem.php') ?>
     <?php include('collabs/albert.php') ?>
+    <?php include('collabs/Oussama.php') ?>
+    <?php include('collabs/Marc.php') ?>
+    <?php include('collabs/gelchhen.php') ?>
   </body>
 </html>
