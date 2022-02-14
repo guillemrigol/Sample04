@@ -1,1 +1,1 @@
-<li><b> Majid Assikiou2 </b></li>
+<li><b> Majid Assikiou </b></li>
