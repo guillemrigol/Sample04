@@ -1,4 +1,4 @@
-<li id="gt">Guillem Trujillo</li>
+<li id="gt"><b>Guillem Trujillo</b></li>
 
 
 
