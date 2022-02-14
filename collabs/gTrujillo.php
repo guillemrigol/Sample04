@@ -157,7 +157,7 @@
   }
 }
 
-  li{
+  li#gt{
     animation: batec 1s infinite;
   }
 </style>
