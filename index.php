@@ -17,5 +17,9 @@
     <?php include('collabs/Èric.php') ?>
     <?php include('collabs/cristian.php') ?>
     <?php include('collabs/majid.php') ?>
+    <?php include('collabs/gTrujillo.php') ?>
+    <?php include('collabs/robert.php') ?>
+    <?php include('collabs/isaias.php') ?>
+    <?php include('collabs/david.php') ?>
   </body>
 </html>
