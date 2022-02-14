@@ -16,5 +16,6 @@
     <?php include('collabs/jonatan.php') ?>
     <?php include('collabs/Èric.php') ?>
     <?php include('collabs/cristian.php') ?>
+    <?php include('collabs/majid.php') ?>
   </body>
 </html>
