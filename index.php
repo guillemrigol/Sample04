@@ -22,7 +22,7 @@
       height:auto;
       margin:0 auto;
       grid-template-columns:repeat(3, 1fr);
-      grid-template-rows:repeat(5, 100px);
+      grid-template-rows:repeat(6, 100px);
       grid-column-gap:10px;
       grid-row-gap:10px;
     }
