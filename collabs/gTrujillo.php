@@ -157,7 +157,7 @@
   }
 }
 
-  p:hover{
+  p{
     transition: color ease 1s;
   }
 </style>
