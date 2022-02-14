@@ -3,8 +3,44 @@
   <head>
     <meta charset="utf-8">
     <title>Directori Sample04</title>
+    <style>
+
+    *{
+    margin:0;
+    padding:0;
+    }
+
+    body{
+      background-color:#404040;
+      width:100%;
+      min-height:100vh;
+      display:flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    ol{
+      display:grid;
+      position:relative;
+      width:80%;
+      margin:0 auto;
+      grid-template-columns:repeat(3, 1fr);
+      grid-template-rows:repeat(5, 100px);
+      grid-column-gap:10px;
+      grid-row-gap:10px;
+    }
+
+    li{
+      background-color:#fdfcfb;
+      list-style:none;
+      display:flex;
+      align-items: center;
+      justify-content: center;
+    }
+    </style>
   </head>
   <body>
+    <ol>
     <?php include('collabs/guillem.php') ?>
     <?php include('collabs/albert.php') ?>
     <?php include('collabs/Oussama.php') ?>
@@ -21,5 +57,6 @@
     <?php include('collabs/robert.php') ?>
     <?php include('collabs/isaias.php') ?>
     <?php include('collabs/david.php') ?>
+    <ol>
   </body>
 </html>
