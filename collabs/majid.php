@@ -13,7 +13,7 @@
   div.test:hover
   {
     overflow: visible;
-    width: 100px;
+    width: 200px;
   }
 
 </style>
